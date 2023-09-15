@@ -1,0 +1,8 @@
+let not_admin = "Caller is not an admin"
+let not_pending_admin = "Caller is not a pending admin"
+let user_already_banned = "User is already banned"
+let user_not_banned = "User is not banned"
+let user_already_whitelisted = "User is already whitelisted"
+let user_not_whitelisted = "User is not whitelisted"
+let insufficient_funds = "Insufficient funds to whitelist"
+let collection_exists = "NFT collection already exists"
